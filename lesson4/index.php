@@ -1,3 +1,3 @@
 <?php
-fsdggferge
-asfdsdsdgsg
+echo "Hello World"
+?>
